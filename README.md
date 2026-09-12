@@ -96,3 +96,4 @@ gcc -Wall -o linked_list1 linked_list1.c
 Note: the examples use `void main()` and C89-style declarations, which classic compilers accept; some modern compilers may warn or require an `-std` flag or a change to `int main()`.
 
 
+
